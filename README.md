@@ -24,7 +24,7 @@
 ### 🛠️ Technologies I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,react,vite](https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,ts,react,vite,nodejs,express,git,github,visualstudio,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,ts,react,vite,nodejs,express,git,github,visualstudio,vscode&perline=8" />
 </p>
 
 ---
