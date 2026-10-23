@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=440&lines=17+y%2Fo+Software+Developer;Full-Stack+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vmnylol&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
